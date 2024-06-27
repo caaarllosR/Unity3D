@@ -1,4 +1,4 @@
-Este é um repositório de protótipos para o estudo da engine Unity3D com scripts em C#. Por serem protótipos de aprendizado o objetivos principal é fazer códigos funcionais acima da aplicação de padrões de projeto. Cada protótipo tem um README que explica o seu objetivo.
+Este é um repositório de protótipos para o estudo da engine Unity3D com scripts em C#. Por serem protótipos de aprendizado o objetivo principal é fazer códigos funcionais acima da aplicação de padrões de projeto. Cada protótipo tem um README que explica o seu objetivo.
 
 Cada um dos protótipos tem uma pasta compactada com o executavél do protótipo que roda no windows para testes.
 
